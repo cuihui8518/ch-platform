@@ -6,7 +6,7 @@
     <groupId>com.cuihui.platform</groupId>
     <artifactId>ch-platform</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <packaging>war</packaging>
+    <packaging>pom</packaging>
     <name>ch-platform</name>
 
     <modules>
