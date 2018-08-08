@@ -13,6 +13,6 @@ public class HelloWorldController {
     @RequestMapping("/hello")
     public String hello() {
         LOGGER.info("call method hello");
-        return "Hello World";
+        return "Hello World!";
     }
 }
