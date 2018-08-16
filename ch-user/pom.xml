@@ -9,6 +9,12 @@
     <packaging>pom</packaging>
     <name>ch-user</name>
 
+    <modules>
+        <module>ch-user-facade</module>
+        <module>ch-user-service</module>
+        <module>ch-user-web</module>
+    </modules>
+
     <parent>
         <groupId>com.cuihui.platform</groupId>
         <artifactId>ch-platform</artifactId>

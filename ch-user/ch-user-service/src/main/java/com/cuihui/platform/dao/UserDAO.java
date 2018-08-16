@@ -1,6 +1,6 @@
-package com.cuihui.platform.impl.dao;
+package com.cuihui.platform.dao;
 
-import com.cuihui.platform.entity.UserDTO;
+import com.cuihui.platform.dto.UserDTO;
 import java.util.List;
 
 public interface UserDAO {

@@ -1,6 +1,7 @@
 package com.cuihui.platform.service;
 
-import com.cuihui.platform.entity.UserDTO;
+import com.cuihui.platform.dto.UserDTO;
+
 import java.util.List;
 
 public interface UserService {

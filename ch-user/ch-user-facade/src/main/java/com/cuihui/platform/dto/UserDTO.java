@@ -1,4 +1,4 @@
-package com.cuihui.platform.entity;
+package com.cuihui.platform.dto;
 
 public class UserDTO {
 

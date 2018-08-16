@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
-<mapper namespace="com.cuihui.platform.impl.dao.UserDAO" >
-    <resultMap id="BaseResultMap" type="com.cuihui.platform.entity.UserDTO" >
+<mapper namespace="com.cuihui.platform.dao.UserDAO" >
+    <resultMap id="BaseResultMap" type="com.cuihui.platform.dto.UserDTO" >
         <id column="id" property="id" />
         <result column="userName" property="userName" />
     </resultMap>

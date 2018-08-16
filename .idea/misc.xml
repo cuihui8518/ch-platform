@@ -7,9 +7,8 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/ch-core/pom.xml" />
-        <option value="$PROJECT_DIR$/ch-user/pom.xml" />
-        <option value="$PROJECT_DIR$/ch-user/ch-user-web/pom.xml" />
+        <option value="$PROJECT_DIR$/ch-user/ch-user-facade/pom.xml" />
+        <option value="$PROJECT_DIR$/ch-user/ch-user-service/pom.xml" />
       </list>
     </option>
   </component>

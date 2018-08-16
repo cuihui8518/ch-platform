@@ -5,6 +5,8 @@
       <module fileurl="file://$PROJECT_DIR$/ch-core/ch-core.iml" filepath="$PROJECT_DIR$/ch-core/ch-core.iml" />
       <module fileurl="file://$PROJECT_DIR$/ch-platform.iml" filepath="$PROJECT_DIR$/ch-platform.iml" />
       <module fileurl="file://$PROJECT_DIR$/ch-user/ch-user.iml" filepath="$PROJECT_DIR$/ch-user/ch-user.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch-user/ch-user-facade/ch-user-facade.iml" filepath="$PROJECT_DIR$/ch-user/ch-user-facade/ch-user-facade.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch-user/ch-user-service/ch-user-service.iml" filepath="$PROJECT_DIR$/ch-user/ch-user-service/ch-user-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/ch-user/ch-user-web/ch-user-web.iml" filepath="$PROJECT_DIR$/ch-user/ch-user-web/ch-user-web.iml" />
     </modules>
   </component>
