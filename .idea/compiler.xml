@@ -7,11 +7,14 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="ch-core" />
+        <module name="ch-user-web" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="ch-core" target="1.8" />
       <module name="ch-platform" target="1.8" />
+      <module name="ch-user" target="1.8" />
+      <module name="ch-user-web" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
