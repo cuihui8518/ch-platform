@@ -4,15 +4,15 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.cuihui.platform</groupId>
-    <artifactId>ch-user</artifactId>
+    <artifactId>ch-message</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <packaging>pom</packaging>
-    <name>ch-user</name>
+    <name>ch-message</name>
 
     <modules>
-        <module>ch-user-facade</module>
-        <module>ch-user-service</module>
-        <module>ch-user-web</module>
+        <module>ch-message-facade</module>
+        <module>ch-message-service</module>
+        <module>ch-message-web</module>
     </modules>
 
     <parent>

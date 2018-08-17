@@ -6,20 +6,29 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="ch-core" />
+        <module name="ch-message-facade" />
+        <module name="ch-message-service" />
+        <module name="ch-message-web" />
         <module name="ch-user-facade" />
         <module name="ch-user-service" />
         <module name="ch-user-web" />
+        <module name="ch-utils" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="ch-core" target="1.8" />
       <module name="ch-dependencies" target="1.5" />
+      <module name="ch-message" target="1.8" />
+      <module name="ch-message-common" target="1.8" />
+      <module name="ch-message-facade" target="1.8" />
+      <module name="ch-message-service" target="1.8" />
+      <module name="ch-message-web" target="1.8" />
       <module name="ch-platform" target="1.8" />
       <module name="ch-user" target="1.8" />
       <module name="ch-user-facade" target="1.8" />
       <module name="ch-user-service" target="1.8" />
       <module name="ch-user-web" target="1.8" />
+      <module name="ch-utils" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

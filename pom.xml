@@ -10,8 +10,9 @@
     <name>ch-platform</name>
 
     <modules>
-        <module>ch-core</module>
         <module>ch-user</module>
+        <module>ch-message</module>
+        <module>ch-utils</module>
     </modules>
 
     <parent>

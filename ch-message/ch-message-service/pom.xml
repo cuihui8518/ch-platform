@@ -4,28 +4,23 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.cuihui.platform</groupId>
-    <artifactId>ch-user</artifactId>
+    <artifactId>ch-message-service</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <packaging>pom</packaging>
-    <name>ch-user</name>
-
-    <modules>
-        <module>ch-user-facade</module>
-        <module>ch-user-service</module>
-        <module>ch-user-web</module>
-    </modules>
+    <packaging>jar</packaging>
+    <name>ch-message-service</name>
 
     <parent>
         <groupId>com.cuihui.platform</groupId>
-        <artifactId>ch-platform</artifactId>
+        <artifactId>ch-message</artifactId>
         <version>0.0.1-SNAPSHOT</version>
     </parent>
 
     <dependencies>
         <dependency>
             <groupId>com.cuihui.platform</groupId>
-            <artifactId>ch-utils</artifactId>
+            <artifactId>ch-message-facade</artifactId>
             <version>0.0.1-SNAPSHOT</version>
         </dependency>
     </dependencies>
+
 </project>

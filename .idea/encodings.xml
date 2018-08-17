@@ -4,10 +4,16 @@
     <file url="file://$PROJECT_DIR$" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/ch-core" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/ch-dependencies" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ch-message" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ch-message/ch-message-common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ch-message/ch-message-facade" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ch-message/ch-message-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ch-message/ch-message-web" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/ch-user" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/ch-user" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/ch-user/ch-user-facade" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/ch-user/ch-user-service" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/ch-user/ch-user-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ch-utils" charset="UTF-8" />
   </component>
 </project>

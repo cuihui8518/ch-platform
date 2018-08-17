@@ -2,12 +2,16 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/ch-core/ch-core.iml" filepath="$PROJECT_DIR$/ch-core/ch-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch-message/ch-message.iml" filepath="$PROJECT_DIR$/ch-message/ch-message.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch-message/ch-message-facade/ch-message-facade.iml" filepath="$PROJECT_DIR$/ch-message/ch-message-facade/ch-message-facade.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch-message/ch-message-service/ch-message-service.iml" filepath="$PROJECT_DIR$/ch-message/ch-message-service/ch-message-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch-message/ch-message-web/ch-message-web.iml" filepath="$PROJECT_DIR$/ch-message/ch-message-web/ch-message-web.iml" />
       <module fileurl="file://$PROJECT_DIR$/ch-platform.iml" filepath="$PROJECT_DIR$/ch-platform.iml" />
       <module fileurl="file://$PROJECT_DIR$/ch-user/ch-user.iml" filepath="$PROJECT_DIR$/ch-user/ch-user.iml" />
       <module fileurl="file://$PROJECT_DIR$/ch-user/ch-user-facade/ch-user-facade.iml" filepath="$PROJECT_DIR$/ch-user/ch-user-facade/ch-user-facade.iml" />
       <module fileurl="file://$PROJECT_DIR$/ch-user/ch-user-service/ch-user-service.iml" filepath="$PROJECT_DIR$/ch-user/ch-user-service/ch-user-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/ch-user/ch-user-web/ch-user-web.iml" filepath="$PROJECT_DIR$/ch-user/ch-user-web/ch-user-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch-utils/ch-utils.iml" filepath="$PROJECT_DIR$/ch-utils/ch-utils.iml" />
     </modules>
   </component>
 </project>

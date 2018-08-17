@@ -9,7 +9,16 @@
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/ch-user/ch-user-facade/pom.xml" />
         <option value="$PROJECT_DIR$/ch-user/ch-user-service/pom.xml" />
+        <option value="$PROJECT_DIR$/ch-message/pom.xml" />
+        <option value="$PROJECT_DIR$/ch-message/ch-message-web/pom.xml" />
+        <option value="$PROJECT_DIR$/ch-message/ch-message-facade/pom.xml" />
+        <option value="$PROJECT_DIR$/ch-message/ch-message-service/pom.xml" />
       </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/ch-message/ch-message-common/pom.xml" />
+      </set>
     </option>
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">

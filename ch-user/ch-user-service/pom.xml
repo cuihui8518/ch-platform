@@ -4,27 +4,26 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.cuihui.platform</groupId>
-    <artifactId>ch-user</artifactId>
+    <artifactId>ch-user-service</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <packaging>pom</packaging>
-    <name>ch-user</name>
-
-    <modules>
-        <module>ch-user-facade</module>
-        <module>ch-user-service</module>
-        <module>ch-user-web</module>
-    </modules>
+    <packaging>jar</packaging>
+    <name>ch-user-service</name>
 
     <parent>
         <groupId>com.cuihui.platform</groupId>
-        <artifactId>ch-platform</artifactId>
+        <artifactId>ch-user</artifactId>
         <version>0.0.1-SNAPSHOT</version>
     </parent>
 
     <dependencies>
         <dependency>
+            <groupId>org.springframework</groupId>
+            <artifactId>spring-webmvc</artifactId>
+        </dependency>
+
+        <dependency>
             <groupId>com.cuihui.platform</groupId>
-            <artifactId>ch-utils</artifactId>
+            <artifactId>ch-user-facade</artifactId>
             <version>0.0.1-SNAPSHOT</version>
         </dependency>
     </dependencies>
