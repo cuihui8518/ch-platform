@@ -13,6 +13,7 @@
         <module>ch-user</module>
         <module>ch-message</module>
         <module>ch-utils</module>
+        <module>ch-dependencies</module>
     </modules>
 
     <parent>

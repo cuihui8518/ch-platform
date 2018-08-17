@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/ch-dependencies/ch-dependencies.iml" filepath="$PROJECT_DIR$/ch-dependencies/ch-dependencies.iml" />
       <module fileurl="file://$PROJECT_DIR$/ch-message/ch-message.iml" filepath="$PROJECT_DIR$/ch-message/ch-message.iml" />
       <module fileurl="file://$PROJECT_DIR$/ch-message/ch-message-facade/ch-message-facade.iml" filepath="$PROJECT_DIR$/ch-message/ch-message-facade/ch-message-facade.iml" />
       <module fileurl="file://$PROJECT_DIR$/ch-message/ch-message-service/ch-message-service.iml" filepath="$PROJECT_DIR$/ch-message/ch-message-service/ch-message-service.iml" />

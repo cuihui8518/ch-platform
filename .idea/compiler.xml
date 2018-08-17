@@ -17,7 +17,7 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="ch-core" target="1.8" />
-      <module name="ch-dependencies" target="1.5" />
+      <module name="ch-dependencies" target="1.8" />
       <module name="ch-message" target="1.8" />
       <module name="ch-message-common" target="1.8" />
       <module name="ch-message-facade" target="1.8" />
